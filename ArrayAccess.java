@@ -5,7 +5,7 @@ public class ArrayAccess {
     private int[] numbers;
 
     public ArrayAccess() {
-        this.numbers = new int[]{10, 20, 30, 40, 50};
+        this.numbers = new int[]{10, 20, 30, 40, 50,60};
     }
 
 
